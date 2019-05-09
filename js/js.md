@@ -298,6 +298,17 @@ bar();
 
 ## 2 原型链
 http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html
+https://juejin.im/post/58f94c9bb123db411953691b
 
 ## 3 闭包
 http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html
+
+## 4 模块化
+http://www.ruanyifeng.com/blog/2012/10/javascript_module.html
+http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html
+http://www.ruanyifeng.com/blog/2012/11/require_js.html
+
+## 5 ES6
+https://es6.ruanyifeng.com/
+30分钟搞定es6重点
+https://juejin.im/entry/58f21df95c497d006c87469e
