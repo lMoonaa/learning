@@ -312,3 +312,6 @@ http://www.ruanyifeng.com/blog/2012/11/require_js.html
 https://es6.ruanyifeng.com/
 30分钟搞定es6重点
 https://juejin.im/entry/58f21df95c497d006c87469e
+
+## JS的基础数据类型和引用数据类型
+https://www.cnblogs.com/cxying93/p/6106469.html
